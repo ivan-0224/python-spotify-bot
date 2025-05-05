@@ -10,3 +10,4 @@ if __name__ == '__main__':
         CLIENT.run_until_disconnected()
     except Exception as e:
         print(f'[BOT] Error: {e}')
+
