@@ -1,12 +1,3 @@
-# spotify-downloader 🎵
-
-# Telegram Music Bot
-
-This is a Telegram bot that allows users to download music from Spotify and YouTube. It supports downloading tracks,
-albums, playlists, and artist information.
-DISCLAIMER : THIS SCRIPTS ARE FOR EDUCATION PURPOSES ONLY AND ARE NOT INTENDED TO PROMOTE ANY ILLEGAL ACTIVITIES. THE
-AUTHOR WILL NOT BE HELD RESPONSIBLE FOR ANY MISUSE OF THE INFORMATION PROVIDED
-
 ## Features
 
 - Download tracks, albums, playlists, and artist information from Spotify.
