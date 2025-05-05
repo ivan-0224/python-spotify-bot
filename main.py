@@ -9,5 +9,4 @@ if __name__ == '__main__':
         CLIENT.start(bot_token=BOT_TOKEN)
         CLIENT.run_until_disconnected()
     except Exception as e:
-        
         print(f'[BOT] Error: {e}')
